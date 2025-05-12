@@ -19,9 +19,9 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Proyectos  
 | Proyecto       | Descripción                     | Tecnologías           | Enlace                                          | Estado         |
 | -------------- | ------------------------------- | --------------------- | ----------------------------------------------- | -------------- |
-| **Proyecto A** | Breve descripción de Proyecto A | Java, Spring Boot     | [Repo](https://github.com/tuUsuario/proyecto-a) | ✅ Completado  |
-| **Proyecto B** | Aplicación web interactiva      | React, Node.js        | [Demo](https://tu-demo.com)                     | 🚧 En progreso |
-| **Proyecto C** | Script de web scraping          | Python, BeautifulSoup | [Repo](https://github.com/tuUsuario/proyecto-c) | ✅ Completado  |
+| **Domino en consola** | Juego de domino en consola | Java    | [Repo](https://github.com/PaulPer37/ProyectoPrimerParcial) | ✅ Completado  |
+| **Analisis estadístico** | Analísis de creciemiento de plantas de arroz con gráficos      | R       | [Repo](https://github.com/PaulPer37/estadisticar)                     | ✅ Completado |
+| **Domino con interfaz gráfica** | Juego de domino en JavaFX          | Java | [Repo](https://github.com/PaulPer37/proyecto2p) | ✅ Completado  |
 
 ---
 
@@ -37,7 +37,6 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Contacto  
 * **Email:** [paulisaacpo@hotmail.com](mailto:paulisaacpo@hotmail.com)  
 * **LinkedIn:** [Tu Perfil](https://linkedin.com/in/usuario)  
-* **GitHub:** [@tuUsuario](https://github.com/tuUsuario)  
-* **Twitter:** [@tuUsuario](https://twitter.com/tuUsuario)
+* **GitHub:** [@PaulPer37](https://github.com/PaulPer37)  
 
 ---
