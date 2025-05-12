@@ -16,13 +16,33 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ---
 
-## Proyectos  
-| Proyecto       | Descripción                     | Tecnologías           | Enlace                                          | Estado         |
-| -------------- | ------------------------------- | --------------------- | ----------------------------------------------- | -------------- |
-| **Domino en consola** | Juego de domino en consola | Java    | [Repo](https://github.com/PaulPer37/ProyectoPrimerParcial) | ✅ Completado  |
-| **Analisis estadístico** | Analísis de creciemiento de plantas de arroz con gráficos      | R       | [Repo](https://github.com/PaulPer37/estadisticar)                     | ✅ Completado |
-| **Domino con interfaz gráfica** | Juego de domino en JavaFX          | Java | [Repo](https://github.com/PaulPer37/proyecto2p) | ✅ Completado  |
+## Proyectos
 
+### 🎯 Domino en consola  
+Juego de dominó ejecutado completamente en la consola.  
+**Repositorio:** [https://github.com/PaulPer37/ProyectoPrimerParcial](https://github.com/PaulPer37/ProyectoPrimerParcial)  
+**Estado:** ✅ Completado  
+**Tecnologías utilizadas:**  
+- Java  
+
+---
+
+### 📊 Análisis estadístico  
+Análisis del crecimiento de plantas de arroz, incluyendo visualizaciones gráficas.  
+**Repositorio:** [https://github.com/PaulPer37/estadisticar](https://github.com/PaulPer37/estadisticar)  
+**Estado:** ✅ Completado  
+**Tecnologías utilizadas:**  
+- R  
+
+---
+
+### 🎮 Domino con interfaz gráfica  
+Juego de dominó con una interfaz gráfica desarrollada en JavaFX.  
+**Repositorio:** [https://github.com/PaulPer37/proyecto2p](https://github.com/PaulPer37/proyecto2p)  
+**Estado:** ✅ Completado  
+**Tecnologías utilizadas:**  
+- Java  
+- JavaFX  
 ---
 
 ## Intereses  
