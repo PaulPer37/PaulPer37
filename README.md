@@ -55,8 +55,7 @@ Juego de dominó con una interfaz gráfica desarrollada en JavaFX.
 ---
 
 ## Contacto  
-* **Email:** [paulisaacpo@hotmail.com](mailto:paulisaacpo@hotmail.com)  
-* **LinkedIn:** [Tu Perfil](https://linkedin.com/in/usuario)  
+* **Email:** [paulisaacpo@hotmail.com](mailto:paulisaacpo@hotmail.com)   
 * **GitHub:** [@PaulPer37](https://github.com/PaulPer37)  
 
 ---
